@@ -1,4 +1,4 @@
-# Training LocalTreinamento - NomeDoTreinamento
+# Training Hashtag Treinamentos - Python Impressionador
 
 ## Estrutura do Repositório
 
@@ -24,5 +24,5 @@
 │   ├── NomeArquivo5.pdf
 ├── LICENSE
 ├── README.md
-├── Training-NomeDoTreinamento.md
+├── Training-Python-Impressionador.md
 └── learning_notes.md
