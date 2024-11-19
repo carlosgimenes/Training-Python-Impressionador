@@ -18,10 +18,6 @@ O objetivo deste treinamento é ganhar conhecimento em Python para fortalecer a 
 
 ---
 
-## Dia 1
-
----
-
 ## Seção 1: Isto é um modelo de Índice
 
 Coloque aqui o conteúdo.
