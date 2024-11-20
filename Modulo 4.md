@@ -4,8 +4,8 @@
 
 ### Criando seu primeiro Programa
 
-- [Notebook Cartilha - Primeiros Códigos em Python](./src/Cartilha%20-%20Primeiros%20Códigos%20em%20Python.ipynb)
-- [Código Cartilha - Primeiros Códigos em Python](./src/cartilha_primeiros_códigos_em_python.py)
+- [Cartilha - Primeiros Códigos em Python (Notebook)](./src/Cartilha%20-%20Primeiros%20Códigos%20em%20Python.ipynb)
+- [Cartilha - Primeiros Códigos em Python (Código)](./src/cartilha_primeiros_códigos_em_python.py)
 - [Meu Primeiro Programa - Olá Mundo!](./src/Primeiro_Programa.ipynb)
 
 ### Operações Básicas
