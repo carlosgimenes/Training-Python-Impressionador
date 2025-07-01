@@ -1,6 +1,6 @@
-# Python Impressionador - Módulo 4
+# Hashtag Treinamentos - Python Impressionador
 
-## Seus primeiros programas em Python
+## Módulo 4 - Seus primeiros programas em Python
 
 ### Criando seu primeiro Programa
 
@@ -48,6 +48,7 @@ Portanto, o valor impresso seria 7.
 Em Python, operações com strings são extremamente poderosas e flexíveis. A seguir estão algumas das principais operações que podemos realizar com strings:
 
 1. **Concatenar Strings**: Você pode combinar strings usando o operador `+`.
+
     ```python
     saudacao = "Olá, "
     nome = "Copilot"
@@ -56,12 +57,14 @@ Em Python, operações com strings são extremamente poderosas e flexíveis. A s
     ```
 
 2. **Repetir Strings**: Use o operador `*` para repetir uma string várias vezes.
+
     ```python
     repeticao = "Oi! " * 3
     print(repeticao)  # Saída: Oi! Oi! Oi! 
     ```
 
 3. **Acessar Caracteres e Slices**: Você pode acessar caracteres específicos ou fatias (slices) de uma string.
+
     ```python
     texto = "Python"
     primeiro_caractere = texto[0]
@@ -71,6 +74,7 @@ Em Python, operações com strings são extremamente poderosas e flexíveis. A s
     ```
 
 4. **Funções de String**: Python possui diversas funções embutidas para manipulação de strings, como `lower()`, `upper()`, `strip()`, `split()`, `replace()`, entre outras.
+
     ```python
     texto = "   Aprendendo Python!  "
     texto_minusculo = texto.lower()
@@ -85,6 +89,7 @@ Em Python, operações com strings são extremamente poderosas e flexíveis. A s
     ```
 
 5. **Interpolação de Strings**: Em Python 3.6+, você pode usar `f-strings` para interpolar variáveis dentro de strings de forma mais limpa e legível.
+
     ```python
     nome = "Copilot"
     idade = 1
@@ -95,6 +100,7 @@ Em Python, operações com strings são extremamente poderosas e flexíveis. A s
 Operador `in` em Python é usado para verificar se uma substring está presente dentro de uma string, ou se um elemento está presente dentro de uma lista, tupla, ou outro tipo de coleção. Aqui estão alguns exemplos para ilustrar o uso do `in`:
 
 ### Verificar Substring em uma String
+
 ```python
 frase = "O Python é incrível!"
 if "Python" in frase:
@@ -104,6 +110,7 @@ else:
 ```
 
 ### Verificar Elemento em uma Lista
+
 ```python
 numeros = [1, 2, 3, 4, 5]
 if 3 in numeros:
@@ -113,6 +120,7 @@ else:
 ```
 
 ### Verificar Elemento em uma Tupla
+
 ```python
 cores = ("vermelho", "verde", "azul")
 if "azul" in cores:
@@ -122,6 +130,7 @@ else:
 ```
 
 ### Verificar Chave em um Dicionário
+
 ```python
 aluno = {"nome": "Maria", "idade": 22, "curso": "Engenharia"}
 if "idade" in aluno:

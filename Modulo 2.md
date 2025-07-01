@@ -1,6 +1,6 @@
-# Python Impressionador - Módulo 2
+# Hashtag Treinamentos - Python Impressionador
 
-## Instalação
+## Módulo 2 - Instalação
 
 ### Qual Python usar? Qual IDE?
 

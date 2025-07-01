@@ -1,6 +1,6 @@
-# Python Impressionador - Módulo 1
+# Hashtag Treinamentos - Python Impressionador
 
-## Material de Apoio
+## Módulo 1 - Material de Apoio
 
 - [Contrato Alunos Curso Python Impressionador](./docs/Contrato%20Alunos%20Curso%20Python%20Impressionador.pdf)
 
