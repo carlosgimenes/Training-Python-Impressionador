@@ -138,3 +138,33 @@ if "idade" in aluno:
 else:
     print("A chave 'idade' não está no dicionário.")
 ```
+
+---
+
+### Variáveis
+
+Variável é o nome que iremos atribuir a um valor específico. O nome de uma variável não pode conter espaços. Utilizando-se de boas práticas, para definir nome "composto" de uma variável, prefira utilizar o "underline" para ligar este nome, como no exemplo: nome_variavel.
+
+Lendo uma variável:
+
+- variavel = valor (lê-se: variavel recebe valor)
+- numero = 3 (lê-se: numero recebe 3)
+
+Exemplos de código com Variáveis:
+
+faturamento = 1500
+custo = 800
+lucro = faturamento - custo
+print(faturamento)
+print(lucro)
+
+### Pegando informações do Usuário
+
+Atribuindo um valor fornecido pelo usuário à uma Variável
+
+variavel = input('Texto para o Usuário')
+
+Exemplo:
+
+cpf = input('Digite seu cpf (apenas números, sem pontos e traços)')
+print('O cpf digitado é ' + cpf)
